@@ -1,0 +1,20 @@
+{
+  "id": "2",
+  "package_name": "cn.lzx284.p7zip",
+  "name": "7Zip通用压缩插件",
+  "version": "1.2.1",
+  "version_code": 4,
+  "summary": "本插件基于p7zip 16.02制作，支持多种格式文件的压缩与解压。7-Zip是一款完全免费而且开源的压缩软件，相比其他软件有更高的压缩比但同时耗费的资源也相对更多，能提供比使用 PKZip 及 WinZip 高2~10%的压缩比率。",
+  "icon": "https://www.wuyunai.com/docs/assets/image/7zip-plugin.png",
+  "url": "https://github.com/bowyn96/autojs-store/releases/download/plugin-2-1.2.1/cn.lzx284.p7zip-1.2.1.apk",
+  "fileUrl": "https://github.com/bowyn96/autojs-store/releases/download/plugin-2-1.2.1/cn.lzx284.p7zip-1.2.1.apk",
+  "originUrl": "https://www.wuyunai.com/docs/blog/7zip-plugin.html",
+  "installed": false,
+  "update_timestamp": 1773933427,
+  "documentation_url": "https://www.wuyunai.com/docs/blog/7zip-plugin.html",
+  "file": "https://github.com/bowyn96/autojs-store/releases/download/plugin-2-1.2.1/cn.lzx284.p7zip-1.2.1.apk",
+  "downloadCount": 223,
+  "store_folder": "cn.lzx284.p7zip",
+  "release_asset": "cn.lzx284.p7zip-1.2.1.apk",
+  "release_tag": "plugin-2-1.2.1"
+}

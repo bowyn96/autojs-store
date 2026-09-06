@@ -1,0 +1,20 @@
+{
+  "id": "5",
+  "package_name": "com.circlefork.yolo",
+  "name": "Yolo11插件",
+  "version": "1.0.1",
+  "version_code": 0,
+  "summary": "Auto.js Yolo11插件，包含DEMO和训练方式 [来自好心人分享]",
+  "icon": "https://www.wuyunai.com/wp-content/uploads/2026/02/20260208235414658-YOLO11.png",
+  "url": "https://github.com/bowyn96/autojs-store/releases/download/plugin-5-1.0.1/com.circlefork.yolo-1.0.1.zip",
+  "fileUrl": "https://github.com/bowyn96/autojs-store/releases/download/plugin-5-1.0.1/com.circlefork.yolo-1.0.1.zip",
+  "originUrl": "",
+  "installed": false,
+  "update_timestamp": 1773933427,
+  "documentation_url": "",
+  "file": "https://github.com/bowyn96/autojs-store/releases/download/plugin-5-1.0.1/com.circlefork.yolo-1.0.1.zip",
+  "downloadCount": 792,
+  "store_folder": "com.circlefork.yolo",
+  "release_asset": "com.circlefork.yolo-1.0.1.zip",
+  "release_tag": "plugin-5-1.0.1"
+}

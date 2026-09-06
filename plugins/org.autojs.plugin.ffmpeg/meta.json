@@ -1,0 +1,20 @@
+{
+  "id": "7",
+  "package_name": "org.autojs.plugin.ffmpeg",
+  "name": "官方FFMpeg插件",
+  "version": "1.1",
+  "version_code": 0,
+  "summary": "官方FFMpeg插件，可调用FFmpeg处理音视频文件、音视频流，比如文件格式转换(视频提取音频、提取图片，mp4转avi等)，视频加水印等。",
+  "icon": "https://www.wuyunai.com/docs/assets/image/ffmpeg-plugin.png",
+  "url": "https://github.com/bowyn96/autojs-store/releases/download/plugin-7-1.1/org.autojs.plugin.ffmpeg-1.1.apk",
+  "fileUrl": "https://github.com/bowyn96/autojs-store/releases/download/plugin-7-1.1/org.autojs.plugin.ffmpeg-1.1.apk",
+  "originUrl": "https://wwwq.lanzouc.com/iWzQg167ypnc",
+  "installed": false,
+  "update_timestamp": 1770566305,
+  "documentation_url": "https://www.wuyunai.com/docs/blog/ffmpeg-plugin.html",
+  "file": "https://github.com/bowyn96/autojs-store/releases/download/plugin-7-1.1/org.autojs.plugin.ffmpeg-1.1.apk",
+  "downloadCount": 269,
+  "store_folder": "org.autojs.plugin.ffmpeg",
+  "release_asset": "org.autojs.plugin.ffmpeg-1.1.apk",
+  "release_tag": "plugin-7-1.1"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1",
+  "package_name": "com.hraps.pytorch",
+  "name": "Pytorch插件",
+  "version": "1.0.0",
+  "version_code": 1,
+  "summary": "Pytorch模块提供了已完成的深度学习神经网络模型在安卓设备上执行的功能，可以实现常规程序难以实现的功能，如：图像识别，语言翻译，语言问答等。",
+  "icon": "https://www.wuyunai.com/docs/assets/image/pytorch-logo.png",
+  "url": "https://github.com/bowyn96/autojs-store/releases/download/plugin-1-1.0.0/com.hraps.pytorch-1.0.0.apk",
+  "fileUrl": "https://github.com/bowyn96/autojs-store/releases/download/plugin-1-1.0.0/com.hraps.pytorch-1.0.0.apk",
+  "originUrl": "https://www.wuyunai.com/docs/v8/thirdPartyPlugins.htmlhttps://wwwq.lanzouc.com/iruV21698xra",
+  "installed": false,
+  "update_timestamp": 1773933427,
+  "documentation_url": "https://www.wuyunai.com/docs/v8/thirdPartyPlugins.html#pytorch插件",
+  "file": "https://github.com/bowyn96/autojs-store/releases/download/plugin-1-1.0.0/com.hraps.pytorch-1.0.0.apk",
+  "downloadCount": 420,
+  "store_folder": "com.hraps.pytorch",
+  "release_asset": "com.hraps.pytorch-1.0.0.apk",
+  "release_tag": "plugin-1-1.0.0"
+}

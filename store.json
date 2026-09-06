@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "name": "autojs-store",
+  "endpoints": {
+    "config": "config.json",
+    "plugins": "plugins/index.json",
+    "projects": "projects/index.json",
+    "documentation": "docs/documentation.json"
+  }
+}
